@@ -1,0 +1,30 @@
+# Environment files - NEVER COMMIT
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Logs
+*.log

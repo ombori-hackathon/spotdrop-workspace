@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(gh org list:*)",
+      "Bash(gh repo list:*)",
+      "Bash(git submodule add:*)",
+      "Bash(docker-compose:*)",
+      "Bash(wc:*)",
+      "Bash(ln:*)",
+      "Bash(npm run *)",
+      "Bash(pip install *)",
+      "Bash(docker-compose *)",
+      "Bash(git *)",
+      "Bash(uvicorn *)",
+      "Bash(alembic *)"
+    ]
+  }
+}

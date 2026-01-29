@@ -1,0 +1,1 @@
+../spotdrop-web/agents/developer.md

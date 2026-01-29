@@ -1,0 +1,1 @@
+../spotdrop-web/agents/debugger.md

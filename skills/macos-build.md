@@ -1,0 +1,1 @@
+../spotdrop-macos/skills/build.md

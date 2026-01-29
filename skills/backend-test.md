@@ -1,0 +1,1 @@
+../spotdrop-backend/skills/test.md

@@ -1,0 +1,1 @@
+../spotdrop-web/skills/lint.md
