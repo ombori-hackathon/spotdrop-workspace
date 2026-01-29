@@ -1,0 +1,1 @@
+../spotdrop-macos/skills/lint.md

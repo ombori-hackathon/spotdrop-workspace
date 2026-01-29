@@ -1,0 +1,1 @@
+../spotdrop-web/skills/test.md

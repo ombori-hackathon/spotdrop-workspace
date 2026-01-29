@@ -1,0 +1,9 @@
+[submodule "spotdrop-macos"]
+	path = spotdrop-macos
+	url = git@github.com:ombori-hackathon/spotdrop-macos.git
+[submodule "spotdrop-web"]
+	path = spotdrop-web
+	url = git@github.com:ombori-hackathon/spotdrop-web.git
+[submodule "spotdrop-backend"]
+	path = spotdrop-backend
+	url = git@github.com:ombori-hackathon/spotdrop-backend.git
